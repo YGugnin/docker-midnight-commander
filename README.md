@@ -3,6 +3,9 @@
 - [Docker Hub repository](https://registry.hub.docker.com/u/kalaksi/midnight-commander/)
 - [GitHub repository](https://github.com/kalaksi/docker-midnight-commander)
 
+## Deprecation warning
+This branch/tag is deprecated, use version 1.1 instead.
+
 ## What is this container for?
 This container runs SSH server and is configured to run Midnight Commander directly after login.  
 So essentially this container is a remote accessible file manager.  
